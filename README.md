@@ -1,6 +1,6 @@
 <h3>hi! I am Hasibul Hossain Santo Shekh</h3>
 <p>I am Hasibul Hossain Santo Shekh . I am a professional Web Developer. During my 1 year of experience as a Web Developer, I have developed both client websites. I believe I can make an immediate impact</p>
-</br>
+
 [![Linkedin Badge](https://img.shields.io/badge/-hasib_shekh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasibshekh/)](https://www.linkedin.com/in/hasibshekh/)
 [![Twitter Badge](https://img.shields.io/badge/-hasib_shekh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HasibShekh4)](https://twitter.com/HasibShekh4)
 [![Instagram Badge](https://img.shields.io/badge/-@hasib_shekh-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/hasibsheikh2130/)](https://www.instagram.com/hasibsheikh2130/)
